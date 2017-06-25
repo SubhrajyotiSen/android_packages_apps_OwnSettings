@@ -152,6 +152,17 @@
     <string name="battery_bar_blend_color_reverse_title">Draai kleur richting</string>
     <string name="battery_bar_blend_color_reverse_summary_off">Vol &#8594; Leeg: rood &#8592; groen &#8592; blauw &#8592; rood</string>
     <string name="battery_bar_blend_color_reverse_summary_on">Vol &#8594; Leeg: rood &#8594; groen &#8594; blauw &#8594; rood</string>
+    <!-- Status Bar Ticker -->
+    <string name="ticker_title">Status Balk Ticker</string>
+    <string name="ticker_screen_summary">Customize de ticker style</string>
+    <string name="ticker_summary">Schakel de status balk ticker in</string>
+    <string name="ticker_restore_defaults_title">Herstel standaard waardes</string>
+    <string name="icon_title">Icoon</string>
+    <string name="colors_title">Kleuren</string>
+    <string name="values_restored_title">Waardes hersteld</string>
+    <string name="ticker_disabled">Geen ticker</string>
+    <string name="ticker_enabled">Notificatie ticker</string>
+    <string name="ticker_media_enabled">Notificatie en muziek ticker</string>
 
 
 	<!-- Button Settings -->
@@ -528,6 +539,20 @@
     <string name="immersive_recents_default">Standaard</string>
     <string name="immersive_recents_statusbar">Alleen statusbalk</string>
     <string name="immersive_recents_navbar">Alleen navigatie balk</string>
+    <!-- Clear all recents button/fab -->
+	<string name="show_clear_all_recents_button_title">Sluit alle apps knop</string>
+	<string name="show_clear_all_recents_button_summary">Laat knop zien</string>
+	<string name="recents_clear_all_location_title">Knop locatie</string>
+	<string name="recents_clear_all_location_top_right">Boven rechts</string>
+	<string name="recents_clear_all_location_top_left">Boven links</string>
+	<string name="recents_clear_all_location_top_center">Boven midden</string>	
+	<string name="recents_clear_all_location_bottom_right">Onder rechts</string>
+	<string name="recents_clear_all_location_bottom_left">Onder links</string>
+	<string name="recents_clear_all_location_bottom_center">Onder midden</string>
+	<string name="recents_clear_all_title">Sluit alles knop</string>
+	<string name="recents_animations_title">Recente apps</string>
+	<string name="recents_anim_title">Recente apps animaties</string>
+	<string name="recents_anim_summary">Pas de vetraging van de "Sluit recente apps" knop animaties aan en zijn acites</string>
     <!-- OmniSwitch -->
     <string name="recents_use_omniswitch_title">Stel in als recente apps scherm</string>
     <string name="recents_use_omniswitch_summary">Gebruik Omniswitch als standaard recente apps wisselaar</string>
@@ -545,7 +570,13 @@
     <string name="selinux_title">Selinux Modes</string>
     <string name="selinux_permissive_title">Permissive (Tolerant)</string>
     <string name="selinux_enforcing_title">Enforcing (afgedwongen)</string>
-    
+    <!-- Dashboard columns -->
+    <string name="dashboard_columns_title">Dashboard Kolommen</string>
+    <string name="dashboard_columns_summary">Verander het aantal kolommen dat zichtbaar is in het dashboard (Instellingen)</string>
+    <string name="dashboard_columns_dialog_title">Selcteer het aantal</string>
+    <string name="dashboard_columns_default">1 (2 in landschap)</string>
+    <string name="dashboard_columns_two">2 (3 in landschap)</string>
+    <string name="dashboard_columns_three">3 (4 in landschap)</string>
     
     <!--OwnROM Center -->
     <string name="owncenter">OwnROM Centrum</string>
