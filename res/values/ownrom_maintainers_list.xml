@@ -38,7 +38,9 @@
     <string name="device_oneplus_oneplus3">OnePlus 3/3t (OnePlus3/3t)</string>
     <string name="device_oneplus_oneplus3_summary">Mark V (OwnDroid)</string>
     <string name="device_oneplus_oneplus2">OnePlus 2 (OnePlus2)</string>
-    <string name="device_oneplus_oneplus2_summary">Muhammad Hamza (MZO9400)</string> 
+    <string name="device_oneplus_oneplus2_summary">Muhammad Hamza (MZO9400)</string>
+    <string name="device_oneplus_oneplus1">OnePlus 1 (Bacon)</string>
+    <string name="device_oneplus_oneplus1_summary">Alistair Holmes (AllyCat)</string> 
 
     <!-- GOOGLE -->
     <string name="device_google_angler">Nexus 6p (Angler)</string>
