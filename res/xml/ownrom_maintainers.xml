@@ -32,6 +32,13 @@
             android:icon="@drawable/phone_tint"
             android:title="@string/device_oneplus_oneplus2"
             android:summary="@string/device_oneplus_oneplus2_summary" />
+         
+         <Preference
+            android:id="@+id/device_oneplus_oneplusone"
+            android:key="oneplusone_maintainer_plus_link"
+            android:icon="@drawable/phone_tint"
+            android:title="@string/device_oneplus_oneplusone"
+            android:summary="@string/device_oneplus_oneplusone_summary" />
             
     </PreferenceCategory>  
 

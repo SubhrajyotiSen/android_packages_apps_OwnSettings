@@ -35,6 +35,7 @@ public class Maintainers extends SettingsPreferenceFragment {
 	// OnePlus
 	private String KEY_ONEPLUS3_MAINTAINER_PLUS_LINK = "oneplus3_maintainer_plus_link";
 	private String KEY_ONEPLUS2_MAINTAINER_PLUS_LINK = "oneplus2_maintainer_plus_link";
+	private String KEY_ONEPLUSONE_MAINTAINER_PLUS_LINK = "oneplusone_maintainer_plus_link";
 	
 	// Google
 	private String KEY_ANGLER_MAINTAINER_PLUS_LINK = "angler_maintainer_plus_link";
@@ -109,6 +110,7 @@ public class Maintainers extends SettingsPreferenceFragment {
         // OnePlus
         mOneplus3PlusUrl = findPreference(KEY_ONEPLUS3_MAINTAINER_PLUS_LINK);
         mOneplus2PlusUrl = findPreference(KEY_ONEPLUS2_MAINTAINER_PLUS_LINK);
+	mOneplusOnePlusUrl = findPreference(KEY_ONEPLUSONE_MAINTAINER_PLUS_LINK);
         
         // Google
         mAnglerPlusUrl = findPreference(KEY_ANGLER_MAINTAINER_PLUS_LINK);
@@ -150,6 +152,8 @@ public class Maintainers extends SettingsPreferenceFragment {
 			launchUrl("https://plus.google.com/+MarkVisser10021991");
 		} else if (preference == mOneplus2PlusUrl) {
 			launchUrl("https://plus.google.com/+MuhammadHamzaMZO");
+		} else if (preference == mOneplusOnePlusUrl) {
+			launchUrl("https://plus.google.com/117825170573333341445");
 
 		// Google
 		} else if (preference == mAnglerPlusUrl) {
